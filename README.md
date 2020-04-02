@@ -6,7 +6,7 @@ With the spirit of reproducible research, this repository contains all the codes
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
-![biplot representation](Rplot_corrplot.png)
+![biplot representation](Rplot_corrplot-new.png)
 
 *Correlation between the various F1 car race variables*
 

@@ -17,4 +17,4 @@ All the code is written in R.
 The script to reproduce all the figures, tables in the paper is `F1_code.R`. Please run this script in R studio.
 
 ### Results and Contributions 
-The three plots to explore the dataset - correlation plot, biplot and scree plot are all added in this repo. Additionally, to facilitate the analysis for this paper, the data is obtained by scraping the website - [racefans.net/](racefans.net/). Data from different pages on this website was combined into one csv for efficient use. This data can be found in `combined_data.csv`.
+The three plots to explore the dataset - correlation plot, biplot and scree plot are all added in this repo. Additionally, to facilitate the analysis for this paper, the data is obtained by scraping this [website](https://www.racefans.net/). Data from different pages on this website was combined into one csv for efficient use. This data can be found in `combined_data.csv`.
